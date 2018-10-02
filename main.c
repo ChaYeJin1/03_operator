@@ -5,6 +5,7 @@
 
 int main(int argc, char *argv[]) {
 int year;
+int result;
 
 printf("input : ");
 scanf("%d", &year);
